@@ -1100,7 +1100,28 @@
 
 </footer>
 
-    
+    <script src="/js/jquery-3.5.1.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/lazysizes.min.js" async></script>
+
+
+
+
+
+<script>
+(function(){
+    // init tooltips
+    $('[data-toggle="tooltip"]').tooltip()
+    // highlight year if hash
+    if(window.location.hash) {
+        var hashfilter = decodeURIComponent(location.hash.substr(1));
+        $("tr#" + hashfilter).addClass("bg-info");
+    }
+})();
+</script>
+
+
+
     <script>
     // When the user scrolls down from the top of the document, show the button
     window.onscroll = function () {

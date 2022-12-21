@@ -206,7 +206,143 @@
 
 </footer>
 
+    <script src="/js/jquery-3.5.1.min.js"></script>
+<script src="/js/bootstrap.bundle.min.js"></script>
+<script src="/js/lazysizes.min.js" async></script>
+
+
+
+
+
+
+<!-- load leaflet dependencies -->
+<script src="/leaflet/leaflet.js"></script>
+<script src="/leaflet/fuse.min.js"></script>
+<script src="/leaflet/leaflet.fusesearch.js"></script>
+<script src="/leaflet/leaflet.markercluster.js"></script>
+<script src="/leaflet/leaflet.markercluster.freezable.js"></script>
+
+<script>
+(function(){
+    /* add collection map data */
+    var geodata = { "type": "FeatureCollection", "features": [ 
     
+    ]};
+
+    /* init map and set zoom */
+    if (window.location.hash) {
+        /* if url has a hash, it is split by comma into coordinates that set the view */
+        var hashfilter = decodeURIComponent(location.hash.substr(1));
+        var latitudeHash = hashfilter.split(',')[0]
+        var longitudeHash = hashfilter.split(',')[1]
+        var map = L.map('map').setView([latitudeHash,longitudeHash],16);
+    } else {
+        var map = L.map('map').setView([39.805157,-95.036494],5);
+    }
+
+    /* add map layer options */
+    var Esri_WorldStreetMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
+    });
+    var Esri_NatGeoWorldMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC',
+        maxZoom: 16
+    });
+    var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+    });
+    /* add base map switcher */
+    var baseMaps = {
+        "Esri World StreetMap": Esri_WorldStreetMap,
+        "Esri National Geo": Esri_NatGeoWorldMap,
+        "Esri Imagery": Esri_WorldImagery
+    };
+    L.control.layers(baseMaps).addTo(map);
+    /* load base map */
+    Esri_WorldStreetMap.addTo(map);
+
+    
+    /* add search, https://github.com/naomap/leaflet-fusesearch */
+    var options = {
+        title: 'Search Map Items',
+        placeholder: 'Search map items...',
+        threshold: 0.35 
+    };
+    var searchCtrl = L.control.fuseSearch(options);
+    searchCtrl.addTo(map);
+    searchCtrl.indexFeatures(geodata.features, ["title","date","creator","subject","location"]);
+
+    
+    /* create cluster group */
+    var markers = L.markerClusterGroup({ maxClusterRadius: 25, singleMarkerMode: true , removeOutsideVisibleBounds: false });
+
+    /* object popup function */
+    function objectPopups(feature, layer) {
+        /* bind feature for search */
+        feature.layer = layer;
+        /* create pop up */
+        var itemHref = '/trovalarana/items/' + feature.properties.id + '.html';
+        if (feature.properties.youtube) {
+            var thumbSrc = 'https://img.youtube.com/vi/' + feature.properties.youtube + '/default.jpg';
+        } else if (feature.properties.format.includes("audio")) {
+            thumbSrc = '/trovalarana/assets/icons/file-play.svg';
+        } else if (feature.properties.format.includes("video")) {
+            thumbSrc = '/trovalarana/assets/icons/film.svg';
+        } else {
+            var thumbSrc = feature.properties.filename;
+        }
+        var popupTemplate = '<h4><a class="text-dark" href="' + itemHref + '">' +
+            feature.properties.title + '</a></h4><div class="text-center"><a class="btn btn-light" href="' + itemHref + 
+            '" ><img class="mapthumb" src="' + thumbSrc + '" alt="item thumbnail"></a></div><p class="mt-0">';
+        
+        if (feature.properties["date"]) {
+            popupTemplate += '<strong>Date:</strong> ' + feature.properties["date"] + '<br>'; 
+        }
+        
+        if (feature.properties["creator"]) {
+            popupTemplate += '<strong>Creator:</strong> ' + feature.properties["creator"] + '<br>'; 
+        }
+        
+        if (feature.properties["subject"]) {
+            popupTemplate += '<strong>Subjects:</strong> ' + feature.properties["subject"] + '<br>'; 
+        }
+        
+        if (feature.properties["location"]) {
+            popupTemplate += '<strong>Location:</strong> ' + feature.properties["location"] + '<br>'; 
+        }
+        
+        popupTemplate += '</p><div class="text-center"><a class="btn btn-light" href="' + itemHref + '" >View Item</a></div>';
+        layer.bindPopup(popupTemplate);
+    }
+    function objectMarkers(feature,latlng) {
+        var marker = L.marker(latlng);
+        markers.addLayer(marker);
+        return marker;
+    }
+
+    /* add objects from geoJson features */
+    L.geoJson(geodata, {
+        onEachFeature: objectPopups,
+        pointToLayer: objectMarkers
+    });
+    map.addLayer(markers);
+    
+    
+    /* uncluster when search is clicked */
+    document.querySelector('a.button').addEventListener("click", function() {
+        markers.disableClustering();
+    });
+    /* recluster when search is closed */
+    document.querySelector('a.close').addEventListener("click", function() {
+        markers.enableClustering();
+        document.querySelector('input.search-input').value = "";
+    });
+
+})();
+
+</script>
+
+
     <script>
     // When the user scrolls down from the top of the document, show the button
     window.onscroll = function () {
