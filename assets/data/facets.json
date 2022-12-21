@@ -1,0 +1,80 @@
+{
+    "facets": [ 
+        {
+            "field": "subject",
+            "terms": { 
+                "correspondence": 28,
+                "japanese students": 26,
+                "atomic bomb": 25,
+                "relocation": 22,
+                "university": 22,
+                "rubble": 20,
+                "moscow": 12,
+                "newspaper clippings": 10,
+                "japanese americans": 8,
+                "peace": 8,
+                "trees": 8,
+                "racism": 7,
+                "anti-racism": 6,
+                "discrimination": 6,
+                "explosions": 5,
+                "reconstruction (1939-1951)--japan": 5,
+                "roofing tile": 5,
+                "world wars": 5,
+                "military": 5,
+                "atomic bomb victims--japan--hiroshima-shi": 4,
+                "atomic bomb--testing": 4,
+                "concentration camps": 4,
+                "atomic bomb--blast effect": 3,
+                "students": 3,
+                "racist language": 3,
+                "clubs (associations)": 3,
+                "nuclear reactors": 2,
+                "religious leaders": 2,
+                "atomic bomb victims--japan": 1,
+                "racial discrimination": 1,
+                "wartime civil control administration": 1,
+                "war civilian control authorities": 1,
+                "proclamations": 1,
+                "national organizations": 1,
+                "war relocation authority": 1
+            }
+        },
+        {
+            "field": "creator",
+            "terms": { 
+                "dale, harrison c.": 6,
+                "university argonaut": 6,
+                "morito, tatsuo": 2,
+                "kayo, rebun": 2,
+                "sproul, robert g.": 2,
+                "idahonian": 2,
+                "moore, don c.d.": 2,
+                "deters, merrill e.": 1,
+                "hughes, james b.": 1,
+                "spokesman-review": 1,
+                "the living church": 1,
+                "wilson, asher b.": 1,
+                "sieg, l.p.": 1,
+                "o'brien, robert w.": 1,
+                "clark, chase a.": 1,
+                "dewitt, john l.": 1,
+                "japanese american citizens league": 1,
+                "lemon, allan c.": 1,
+                "tanabe, haru": 1,
+                "freeman, frank n.": 1,
+                "roberts, c.e.": 1,
+                "gross, rex": 1,
+                "baldwin, ernest j.": 1
+            }
+        },
+        {
+            "field": "format",
+            "terms": { 
+                "image/jpg": 73,
+                "application/pdf": 17
+            }
+        }
+        
+    ]
+}

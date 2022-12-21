@@ -1,0 +1,140 @@
+{
+    "profile": "data-package",
+    "name": "idaho-world-war-ii-data",
+    "title": "Idaho, World War II... Data",
+    "description": "Metadata and data derived from Idaho, World War II.... On December 7th, 1941, Japan&#39;s surprise military attack on the Pearl Harbor military base in Hawaii not only was the catalyst for the United States entering World War II, but also had a drastic effect on the lives of Japanese immigrants and Japanese-Americans living in the United States. This exhibit looks at the experiences of the Japanese communities in and around Idaho during World War II.",
+    
+    "homepage": "https://www.lib.uidaho.edu/digital/hiroshima/",
+    "contributors": [
+        {
+            "title": "Digital Initiatives, University of Idaho Library",
+            "path": "https://www.lib.uidaho.edu/digital/",
+            "role": "author"
+        }
+    ],
+    "image": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/ug31_folder167_001.jpg",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+         
+        {
+            "name": "facets-json",
+            "path": "facets.json",
+            "title": "Idaho, World War II... Metadata Facets",
+            "description":"Unique values and counts of metadata facet fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "subject-csv",
+            "path": "subjects.csv",
+            "title": "Idaho, World War II... metadata subject counts in csv",
+            "description": "Unique values and counts of metadata subject fields.",
+            "format":"csv",
+            "profile":"tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "subject",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "link",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "subjects-json",
+            "path": "subjects.json",
+            "title": "Idaho, World War II...  metadata subject counts in json",
+            "description":"Unique values and counts of metadata subject fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "locations-csv",
+            "path": "subjects.csv",
+            "title": "Idaho, World War II... metadata location counts in csv",
+            "description": "Unique values and counts of metadata location fields.",
+            "format":"csv",
+            "profile":"tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "link",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "locations-json",
+            "path": "locations.json",
+            "title": "Idaho, World War II... metadata location counts in json",
+            "description":"Unique values and counts of metadata location fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "geodata-json",
+            "path": "geodata.json",
+            "title": "Idaho, World War II... geographic metadata",
+            "description": "Geojson data containing all objects with lat-longs and associated descriptive metadata.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "timeline-json",
+            "path": "timelinejs.json",
+            "title": "Idaho, World War II... timeline metadata",
+            "description": "Time-based metadata formatted for TimelineJS or other applications.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": "Idaho, World War II... full metadata in csv",
+            "description": "Complete metadata export for Idaho, World War II... objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": "Idaho, World War II... full metadata in json",
+            "description": "Complete metadata export for Idaho, World War II... objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}
