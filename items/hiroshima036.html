@@ -351,48 +351,11 @@
 
 </footer>
 
-    <!-- Optional JS for Bootstrap: jQuery first, then Bootstrap bundle JS -->
-<script src="/js/jquery-3.5.1.min.js"></script>
-<script src="/js/bootstrap.bundle.min.js"></script>
+    <!-- Bootstrap bundle JS -->
+<script src="/trovalarana/assets/lib/bootstrap.bundle.min.js"></script>
 <!-- load other js -->
-<script src="/js/lazysizes.min.js" async></script>
-<script src="/js/jquery.mousewheel.min.js"></script>
-<script src="/lightgallery/js/lightgallery-all.min.js"></script>
-<script>
-    $(document).ready(function() {
-        $("#lightgallery").lightGallery({
-            selector: '.gallery-img',
-            thumbnail:true
-        }); 
-    });
-</script>
-
-
-
-
-
-
-<script>
-function leftArrowPressed() {
-   location.href = document.getElementById("prev-page-button").href;
-}
-
-function rightArrowPressed() {
-    location.href = document.getElementById("next-page-button").href;
-}
-
-document.onkeydown = function(evt) {
-    evt = evt || window.event;
-    switch (evt.keyCode) {
-        case 37:
-            leftArrowPressed();
-            break;
-        case 39:
-            rightArrowPressed();
-            break;
-    }
-};
-</script>
+<script src="/trovalarana/assets/lib/lazysizes.min.js" async></script>
+<script src="/trovalarana/assets/lib/spotlight.bundle.js" defer></script>
 
     <script>
     // When the user scrolls down from the top of the document, show the button
