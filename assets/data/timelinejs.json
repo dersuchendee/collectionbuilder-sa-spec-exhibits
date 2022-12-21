@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/ug31_folder167_001.jpg",
+          "url": "/ug31_folder167_001.jpg",
           "caption": "Hiroshima or Nagasaki after bombing",
           "credit": "Idaho, World War II..."
         },
@@ -13,9 +13,9 @@
     "events": [
       {
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_001_sm.jpg",
+          "url": "/small/ug31_folder167_001_sm.jpg",
           "caption": "Hiroshima or Nagasaki after bombing",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima001.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima001.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -26,9 +26,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_002_sm.jpg",
+          "url": "/small/ug31_folder167_002_sm.jpg",
           "caption": "Possibly Nautilus reactor",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima002.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima002.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -39,9 +39,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_003_sm.jpg",
+          "url": "/small/ug31_folder167_003_sm.jpg",
           "caption": "Burns showing close copy of dress patterns",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima003.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima003.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -52,9 +52,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_004_sm.jpg",
+          "url": "/small/ug31_folder167_004_sm.jpg",
           "caption": "Victim at the Hijiyama Primary School Shelter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima004.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima004.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -65,9 +65,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_005_sm.jpg",
+          "url": "/small/ug31_folder167_005_sm.jpg",
           "caption": "Land-based protoytpe of the nuclear reactor for the Nautilus was assembled and tested at Arco, Idaho, in a section of submarine hull immersed in a tank of water 50 feet in diameter and 40 feet high",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima005.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima005.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -78,9 +78,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_006_sm.jpg",
+          "url": "/small/ug31_folder167_006_sm.jpg",
           "caption": "Victim at the Hijiyama Primary School Shelter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima006.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima006.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -91,9 +91,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_007_sm.jpg",
+          "url": "/small/ug31_folder167_007_sm.jpg",
           "caption": "Victim at the Hijiyama Primary School Shelter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima007.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima007.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -104,9 +104,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_008_sm.jpg",
+          "url": "/small/ug31_folder167_008_sm.jpg",
           "caption": "Victim at the Hijiyama Primary School Shelter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima008.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima008.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -117,9 +117,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_009_sm.jpg",
+          "url": "/small/ug31_folder167_009_sm.jpg",
           "caption": "Through the rubbles near Yamaguchi-cho, 1200 meters from hypcenter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima009.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima009.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -130,9 +130,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_010_sm.jpg",
+          "url": "/small/ug31_folder167_010_sm.jpg",
           "caption": "Red Cross hospital looking northwest, Hiroshima. Standing buildines were erected after the blast.",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima010.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima010.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -143,9 +143,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_011_sm.jpg",
+          "url": "/small/ug31_folder167_011_sm.jpg",
           "caption": "Destroyed industrial area shoing smoke stacks still standing. 0.51 mile from ground zero at Nagasaki.",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima011.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima011.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -156,9 +156,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_012_sm.jpg",
+          "url": "/small/ug31_folder167_012_sm.jpg",
           "caption": "Human Shadow imprinted on step stone of the Sumitomo Bank, 450 meters from hypocenter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima012.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima012.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -169,9 +169,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_013_sm.jpg",
+          "url": "/small/ug31_folder167_013_sm.jpg",
           "caption": "Gate posts marking front entrance to Hiroshima Army Hospital, 950 meters from Hypocenter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima013.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima013.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -182,9 +182,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_014_sm.jpg",
+          "url": "/small/ug31_folder167_014_sm.jpg",
           "caption": "Shadow of hand vlave wheel on paint of gas holder at Hiroshima. Radiant heat instantly burned paint where the heat rays were not obstructed, 6300 feet from ground zero.",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima014.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima014.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -195,9 +195,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_015_sm.jpg",
+          "url": "/small/ug31_folder167_015_sm.jpg",
           "caption": "Pressure of the blast bent the steel frame of the Mitsubishi Steel Works, 2400 feet south of ground zero at Nagasaki, away from the explosion.",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima015.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima015.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -208,9 +208,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_016_sm.jpg",
+          "url": "/small/ug31_folder167_016_sm.jpg",
           "caption": "Heavy walls of the vault are all that remain of the Koa Fire Insurance Company, 1300 feet from ground zero",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima016.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima016.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -221,9 +221,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_017_sm.jpg",
+          "url": "/small/ug31_folder167_017_sm.jpg",
           "caption": "Collapsed band buildings, 400 meters from hypocenter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima017.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima017.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -234,9 +234,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_018_sm.jpg",
+          "url": "/small/ug31_folder167_018_sm.jpg",
           "caption": "Electic lines snapped by the blast, 700 meters from hypocenter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima018.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima018.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -247,9 +247,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_019_sm.jpg",
+          "url": "/small/ug31_folder167_019_sm.jpg",
           "caption": "Shadows left by nine pedestrians on Yorozuyo-Bashi Bridge, 910 meters from hypocenter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima019.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima019.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -260,9 +260,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_020_sm.jpg",
+          "url": "/small/ug31_folder167_020_sm.jpg",
           "caption": "Northern sector as viewed from City Hall",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima020.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima020.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -273,9 +273,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_021_sm.jpg",
+          "url": "/small/ug31_folder167_021_sm.jpg",
           "caption": "Blast-flattened Shimomura Watchmakers, Hirataya-Cho, 600 meters from hypocenter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima021.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima021.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -286,9 +286,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_022_sm.jpg",
+          "url": "/small/ug31_folder167_022_sm.jpg",
           "caption": "Near Takeya-Cho",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima022.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima022.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -299,9 +299,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_023_sm.jpg",
+          "url": "/small/ug31_folder167_023_sm.jpg",
           "caption": "Shima Surgical Hospital, Hiroshima, 100 feet from Ground Zero.",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima023.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima023.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -312,9 +312,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_024_sm.jpg",
+          "url": "/small/ug31_folder167_024_sm.jpg",
           "caption": "Hirataya-Cho, 450 meters from hypocenter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima024.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima024.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -325,9 +325,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_025_sm.jpg",
+          "url": "/small/ug31_folder167_025_sm.jpg",
           "caption": "Tokaichi-machi, 700 meters from hypocenter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima025.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima025.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -338,9 +338,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_026_sm.jpg",
+          "url": "/small/ug31_folder167_026_sm.jpg",
           "caption": "Hiroshima before bombing, 1000 foot circles",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima026.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima026.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -351,9 +351,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_027_sm.jpg",
+          "url": "/small/ug31_folder167_027_sm.jpg",
           "caption": "Hiroshima after bombing, 1000 foot cirlces",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima027.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima027.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -364,9 +364,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_028_sm.jpg",
+          "url": "/small/ug31_folder167_028_sm.jpg",
           "caption": "Explosion at Nagasaki",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima028.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima028.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -377,9 +377,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_029_sm.jpg",
+          "url": "/small/ug31_folder167_029_sm.jpg",
           "caption": "Shallow underground explosion. The radioactivity and the ground dirt are thoroughly mixed",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima029.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima029.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -390,9 +390,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_030_sm.jpg",
+          "url": "/small/ug31_folder167_030_sm.jpg",
           "caption": "Radioactive cloud and first stages of the base surge following an underwater burst. Water is beginning to fall back from the column into the lagoon.",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima030.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima030.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -403,9 +403,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_031_sm.jpg",
+          "url": "/small/ug31_folder167_031_sm.jpg",
           "caption": "Condensation cloud formed after a shallow underwater explosion. (Slick due to the shock wave, can be seen on the water surface)",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima031.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima031.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -416,9 +416,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug31_folder167_032_sm.jpg",
+          "url": "/small/ug31_folder167_032_sm.jpg",
           "caption": "Test at Trinity: 016 seconds after detonation",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima032.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima032.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -429,9 +429,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ma2019-39_01_sm.jpg",
+          "url": "/small/ma2019-39_01_sm.jpg",
           "caption": "Letter from Hiroshima University President, Tatsuo Morito, to the University of Idaho",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima033.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima033.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1951"
@@ -442,9 +442,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ma2019-39_02_sm.jpg",
+          "url": "/small/ma2019-39_02_sm.jpg",
           "caption": "Letter from Rebun Kayo (English)",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima034.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima034.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -455,9 +455,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ma2019-39_03_sm.jpg",
+          "url": "/small/ma2019-39_03_sm.jpg",
           "caption": "Letter from Rebun Kayo (Japanese)",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima035.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima035.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -468,9 +468,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ma2019-39_04_sm.jpg",
+          "url": "/small/ma2019-39_04_sm.jpg",
           "caption": "Letter from Professor Deters to President Morito",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima036.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima036.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -483,9 +483,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ma2019-39_05_sm.jpg",
+          "url": "/small/ma2019-39_05_sm.jpg",
           "caption": "Letter from President Morito to Professor Deters",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima037.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima037.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1951"
@@ -495,9 +495,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ma2019-39_06_sm.jpg",
+          "url": "/small/ma2019-39_06_sm.jpg",
           "caption": "Roof Tile",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima038.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima038.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -508,9 +508,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ma2019-39_07_sm.jpg",
+          "url": "/small/ma2019-39_07_sm.jpg",
           "caption": "Roof Tile",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima039.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima039.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -521,9 +521,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ma2019-39_08_sm.jpg",
+          "url": "/small/ma2019-39_08_sm.jpg",
           "caption": "Roof Tile",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima040.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima040.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -534,9 +534,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ma2019-39_09_sm.jpg",
+          "url": "/small/ma2019-39_09_sm.jpg",
           "caption": "Roof Tile",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima041.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima041.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -547,9 +547,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ma2019-39_10_sm.jpg",
+          "url": "/small/ma2019-39_10_sm.jpg",
           "caption": "Roof Tile",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima042.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima042.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -560,9 +560,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/pg103_01_02_sm.jpg",
+          "url": "/small/pg103_01_02_sm.jpg",
           "caption": "Buildings at Kooskia showing bridge",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima043.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima043.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1944"
@@ -572,9 +572,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/pg103_01_03_sm.jpg",
+          "url": "/small/pg103_01_03_sm.jpg",
           "caption": "Sign at entrance of camp in Kooskia",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima044.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima044.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1944"
@@ -584,9 +584,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/pg103_01_17_sm.jpg",
+          "url": "/small/pg103_01_17_sm.jpg",
           "caption": "Sawing wood at Kooskia",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima045.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima045.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1944"
@@ -596,9 +596,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/pg103_01_26_sm.jpg",
+          "url": "/small/pg103_01_26_sm.jpg",
           "caption": "Digging in Kooskia",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima046.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima046.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1944"
@@ -608,9 +608,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/1994_redbarroncrabapple_01_sm.jpg",
+          "url": "/small/1994_redbarroncrabapple_01_sm.jpg",
           "caption": "Borah Foundation Peace Walk: Red Barron Crabapple",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima047.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima047.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -621,9 +621,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/1995_weepingeuropeanlarch_01_sm.jpg",
+          "url": "/small/1995_weepingeuropeanlarch_01_sm.jpg",
           "caption": "Borah Foundation Peace Walk: Weeping European Larch",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima048.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima048.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -634,9 +634,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/1996_turkishfilbert_01_sm.jpg",
+          "url": "/small/1996_turkishfilbert_01_sm.jpg",
           "caption": "Borah Foundation Peace Walk: Turkish Filbert",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima049.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima049.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -647,9 +647,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/1997_weepingwhitemulberry_01_sm.jpg",
+          "url": "/small/1997_weepingwhitemulberry_01_sm.jpg",
           "caption": "Borah Foundation Peace Walk: Weeping White Mulberry",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima050.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima050.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -660,9 +660,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/1998_columnareuropeanaspen_01_sm.jpg",
+          "url": "/small/1998_columnareuropeanaspen_01_sm.jpg",
           "caption": "Borah Foundation Peace Walk: Columnar European Aspen",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima051.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima051.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -673,9 +673,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/1998_cucumbertree_01_sm.jpg",
+          "url": "/small/1998_cucumbertree_01_sm.jpg",
           "caption": "Borah Foundation Peace Walk: Cucumber Tree",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima052.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima052.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -686,9 +686,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/2000_giantdogwood_01_sm.jpg",
+          "url": "/small/2000_giantdogwood_01_sm.jpg",
           "caption": "Borah Foundation Peace Walk: Giant Dogwood",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima053.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima053.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -699,9 +699,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/2002_coloradospruce_01_sm.jpg",
+          "url": "/small/2002_coloradospruce_01_sm.jpg",
           "caption": "Borah Foundation Peace Walk: Colorado Spruce",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima054.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima054.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { 
@@ -712,9 +712,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_01_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_01_sm.jpg",
           "caption": "Letter from President Dale to University of California, Berkley's President Sproul",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima055.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima055.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -725,9 +725,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_03_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_03_sm.jpg",
           "caption": "Letter from University of California, Berkley's President Sproul to President Dale",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima057.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima057.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -738,9 +738,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_04_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_04_sm.jpg",
           "caption": "Letter from James B. Hughes to President Dale",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima058.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima058.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -751,9 +751,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_05_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_05_sm.jpg",
           "caption": "Letter from University of California, Berkley's President Sproul to US Vice-President Henry A. Wallace",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima059.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima059.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -764,9 +764,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_07_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_07_sm.jpg",
           "caption": "Evacuees Not At All Bitter",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima060.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima060.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -777,9 +777,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_08_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_08_sm.jpg",
           "caption": "The Japanese Evacuation: Looking Backward and Forward",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima061.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima061.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -790,9 +790,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_09_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_09_sm.jpg",
           "caption": "Our Closed Door",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima062.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima062.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -803,9 +803,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_10_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_10_sm.jpg",
           "caption": "Letter from Asher B. Wilson to President Dale",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima063.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima063.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -816,9 +816,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_11_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_11_sm.jpg",
           "caption": "Letter from L.P. Sieg to President Dale",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima064.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima064.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -829,9 +829,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_12_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_12_sm.jpg",
           "caption": "Letter from President Dale to Asher B. Wilson",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima065.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima065.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -842,9 +842,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_13_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_13_sm.jpg",
           "caption": "Letter from Robert W. O'Brien to Professor Paul K. Hatt",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima066.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima066.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -855,9 +855,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_15_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_15_sm.jpg",
           "caption": "Nisei Sent Here to be Taken Out",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima068.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima068.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -868,9 +868,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_16_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_16_sm.jpg",
           "caption": "Six Nisei Students Come Here to Continue Studies",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima069.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima069.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -881,9 +881,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_17_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_17_sm.jpg",
           "caption": "Letter from President Dale to Governor Clark",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima070.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima070.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -894,9 +894,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_18_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_18_sm.jpg",
           "caption": "Letter from Governor Clark to President Dale",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima071.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima071.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -907,9 +907,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_19_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_19_sm.jpg",
           "caption": "Public Proclamation No. 3",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima072.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima072.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -920,9 +920,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_20_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_20_sm.jpg",
           "caption": "Six American Citizens",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima073.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima073.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -933,9 +933,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_22_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_22_sm.jpg",
           "caption": "An Open Letter to Governor Clark",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima074.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima074.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -946,9 +946,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_23_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_23_sm.jpg",
           "caption": "Letter from Representative Don C.D. Moore to President Dale",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima075.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima075.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -959,9 +959,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box43_folder1344_24_sm.jpg",
+          "url": "/small/ug12_box43_folder1344_24_sm.jpg",
           "caption": "Letter from Representative Don C.D. Moore to President Dale",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima076.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima076.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -972,9 +972,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box48_folder1468_01_sm.jpg",
+          "url": "/small/ug12_box48_folder1468_01_sm.jpg",
           "caption": "Letter from Japanese American Citizens League to the University of Idaho",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima077.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima077.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1941"
@@ -985,9 +985,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box48_folder1468_02_sm.jpg",
+          "url": "/small/ug12_box48_folder1468_02_sm.jpg",
           "caption": "Letter from President Dale to E.J. Baldwin",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima078.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima078.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1943"
@@ -998,9 +998,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box48_folder1468_03_sm.jpg",
+          "url": "/small/ug12_box48_folder1468_03_sm.jpg",
           "caption": "Letter from Allan C. Lemon to Student Relocation Counsellor Haru Tanabe",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima079.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima079.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1943"
@@ -1011,9 +1011,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box48_folder1468_04_sm.jpg",
+          "url": "/small/ug12_box48_folder1468_04_sm.jpg",
           "caption": "Letter from Student Relocation Counsellor Haru Tanabe to Allan C. Lemon",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima080.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima080.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1943"
@@ -1024,9 +1024,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box48_folder1468_05_sm.jpg",
+          "url": "/small/ug12_box48_folder1468_05_sm.jpg",
           "caption": "Letter from Frank N. Freeman to J.F. Messenger",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima081.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima081.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1943"
@@ -1037,9 +1037,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box48_folder1468_06_sm.jpg",
+          "url": "/small/ug12_box48_folder1468_06_sm.jpg",
           "caption": "Letter from President Dale to Student Relocation Counsellor Haru Tanabe",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima082.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima082.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1943"
@@ -1050,9 +1050,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box48_folder1468_07_sm.jpg",
+          "url": "/small/ug12_box48_folder1468_07_sm.jpg",
           "caption": "Letter from State Superintendent of Public Instruction C.E. Roberts to President Dale",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima083.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima083.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1943"
@@ -1063,9 +1063,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box48_folder1468_08_sm.jpg",
+          "url": "/small/ug12_box48_folder1468_08_sm.jpg",
           "caption": "Letter from President Dale to Commander Rex Gross",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima084.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima084.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1944"
@@ -1076,9 +1076,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box48_folder1468_09_sm.jpg",
+          "url": "/small/ug12_box48_folder1468_09_sm.jpg",
           "caption": "Letter from Commander Rex Gross to President Dale",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima085.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima085.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1944"
@@ -1089,9 +1089,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/ug12_box48_folder1468_10_sm.jpg",
+          "url": "/small/ug12_box48_folder1468_10_sm.jpg",
           "caption": "Letter from Acting Dean Baldwin to the Edward V. Berman at the War Relocation Authority",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima086.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima086.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1943"
@@ -1102,9 +1102,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/argonaut_1942-04-24_pg1_sm.jpg",
+          "url": "/small/argonaut_1942-04-24_pg1_sm.jpg",
           "caption": "University Makes No Change in Jap Policy",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima087.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima087.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -1115,9 +1115,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/argonaut_1942-11-05-pg1_sm.jpg",
+          "url": "/small/argonaut_1942-11-05-pg1_sm.jpg",
           "caption": "Group Hears Martin Tell Slap-A-Jap Club's Idea",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima088.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima088.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -1128,9 +1128,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/argonaut_1942-11-19-pg2_01_sm.jpg",
+          "url": "/small/argonaut_1942-11-19-pg2_01_sm.jpg",
           "caption": "Letter To The Editor",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima089.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima089.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"
@@ -1141,9 +1141,9 @@
         }
       },{
         "media": {
-          "url": "https://webpages.uidaho.edu/library/spec/development_objects_folders/hiroshima/small/argonaut_1942-11-19-pg2_02_sm.jpg",
+          "url": "/small/argonaut_1942-11-19-pg2_02_sm.jpg",
           "caption": "It Takes All Kinds",
-          "link": "https://www.lib.uidaho.edu/digital/hiroshima/items/hiroshima090.html",
+          "link": "https://dersuchendee.github.io/trovalarana/items/hiroshima090.html",
           "credit": "Idaho, World War II..."
         },
         "start_date": { "year": "1942"

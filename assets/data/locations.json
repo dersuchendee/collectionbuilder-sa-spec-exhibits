@@ -1,9 +1,9 @@
 { "locations": [
-    { "location" : "hiroshima, japan", "count" : 15, "link" : "https://www.lib.uidaho.edu/digital/hiroshima/browse.html#hiroshima,%20japan" },
-    { "location" : "university of idaho arboretum", "count" : 8, "link" : "https://www.lib.uidaho.edu/digital/hiroshima/browse.html#university%20of%20idaho%20arboretum" },
-    { "location" : "kooskia, idaho", "count" : 4, "link" : "https://www.lib.uidaho.edu/digital/hiroshima/browse.html#kooskia,%20idaho" },
-    { "location" : "japan", "count" : 2, "link" : "https://www.lib.uidaho.edu/digital/hiroshima/browse.html#japan" },
-    { "location" : "arco, idaho", "count" : 2, "link" : "https://www.lib.uidaho.edu/digital/hiroshima/browse.html#arco,%20idaho" },
-    { "location" : "nagasaki, japan", "count" : 1, "link" : "https://www.lib.uidaho.edu/digital/hiroshima/browse.html#nagasaki,%20japan" },
-    { "location" : "jornada del muerto, new mexico", "count" : 1, "link" : "https://www.lib.uidaho.edu/digital/hiroshima/browse.html#jornada%20del%20muerto,%20new%20mexico" }
+    { "location" : "hiroshima, japan", "count" : 15, "link" : "https://dersuchendee.github.io/trovalarana/browse.html#hiroshima,%20japan" },
+    { "location" : "university of idaho arboretum", "count" : 8, "link" : "https://dersuchendee.github.io/trovalarana/browse.html#university%20of%20idaho%20arboretum" },
+    { "location" : "kooskia, idaho", "count" : 4, "link" : "https://dersuchendee.github.io/trovalarana/browse.html#kooskia,%20idaho" },
+    { "location" : "japan", "count" : 2, "link" : "https://dersuchendee.github.io/trovalarana/browse.html#japan" },
+    { "location" : "arco, idaho", "count" : 2, "link" : "https://dersuchendee.github.io/trovalarana/browse.html#arco,%20idaho" },
+    { "location" : "nagasaki, japan", "count" : 1, "link" : "https://dersuchendee.github.io/trovalarana/browse.html#nagasaki,%20japan" },
+    { "location" : "jornada del muerto, new mexico", "count" : 1, "link" : "https://dersuchendee.github.io/trovalarana/browse.html#jornada%20del%20muerto,%20new%20mexico" }
 ]}
