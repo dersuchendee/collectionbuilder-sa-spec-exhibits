@@ -213,55 +213,7 @@ Word size is determined by frequency and all words link to a corresponding colle
 
 </footer>
 
-    <!--<script src="/js/jquery-3.5.1.min.js"></script>
-<script src="/js/bootstrap.bundle.min.js"></script>
-<!-- load other js -->
-<!-- <script src="/js/lazysizes.min.js" async></script> -->
-
-
-
-<script>
-    /* subject terms + count */
-    var terms = [
-        ["anti-racism", 6], ["atomic bomb", 25], ["atomic bomb victims--japan", 1], ["atomic bomb victims--japan--hiroshima-shi", 4], ["atomic bomb--blast effect", 3], ["atomic bomb--testing", 4], ["baldwin, ernest j.", 1], ["clark, chase a.", 1], ["clubs (associations)", 3], ["concentration camps", 4], ["correspondence", 28], ["dale, harrison c.", 6], ["deters, merrill e.", 1], ["dewitt, john l.", 1], ["discrimination", 6], ["explosions", 5], ["freeman, frank n.", 1], ["gross, rex", 1], ["hughes, james b.", 1], ["idahonian", 2], ["japanese american citizens league", 1], ["japanese americans", 8], ["japanese students", 26], ["kayo, rebun", 2], ["lemon, allan c.", 1], ["military", 5], ["moore, don c.d.", 2], ["morito, tatsuo", 2], ["moscow", 12], ["national organizations", 1], ["newspaper clippings", 10], ["nuclear reactors", 2], ["o'brien, robert w.", 1], ["peace", 8], ["proclamations", 1], ["racial discrimination", 1], ["racism", 7], ["racist language", 3], ["reconstruction (1939-1951)--japan", 5], ["religious leaders", 2], ["relocation", 22], ["roberts, c.e.", 1], ["roofing tile", 5], ["rubble", 20], ["sieg, l.p.", 1], ["spokesman-review", 1], ["sproul, robert g.", 2], ["students", 3], ["tanabe, haru", 1], ["the living church", 1], ["trees", 8], ["university", 22], ["university argonaut", 6], ["war civilian control authorities", 1], ["war relocation authority", 1], ["wartime civil control administration", 1], ["wilson, asher b.", 1], ["world wars", 5]
-    ];
-
     
-    /* calculate max size */
-    var counts = terms.map(function(obj){ return obj[1]; });
-    var countMax = counts.reduce(function(a, b) { return Math.max(a, b); });
-    var cloud = document.getElementById("cloud");
-    /* Fisher-Yates shuffle https://bost.ocks.org/mike/shuffle/ */
-    /* function shuffle(array) {
-        var m = array.length, t, i;
-        while (m) {
-        i = Math.floor(Math.random() * m--);
-        t = array[m];
-        array[m] = array[i];
-        array[i] = t;
-        }
-        return array;
-    } */
-    function mapSize(x) { return Math.round(x * 9 / countMax + 1); }
-    /* create cloud */
-    function makeGrid(array) {
-        var i, size;
-        var items = "";
-        //shuffle(array);
-        for (i = 0; i < array.length; i++) {
-            size = mapSize(array[i][1]);
-            items += '<a class="btn btn-outline-info m-2 tagcloud' + size + '" href="/trovalarana/browse.html#' + encodeURIComponent(array[i][0]) + '" >' + array[i][0] + '</a>';
-        }
-        cloud.innerHTML = items;
-    }
-    makeGrid(terms);
-
-</script>
-
-
-
-
-
     <script>
     // When the user scrolls down from the top of the document, show the button
     window.onscroll = function () {
